@@ -1,0 +1,2 @@
+full_name,short_name,file_count,token_count,type_count,encoding,token_definition,ignore_header,ignore_items,number_replace,format,indexer_type,indexer
+Cleaned_Discord_Data,Cleaned_Discord_,736,214864717,3140119,utf_8_sig,[\p{L}]+,False,False,False,raw_files,type,simple_word_indexer
