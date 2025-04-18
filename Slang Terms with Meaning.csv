@@ -46,7 +46,7 @@ lvl,Level,0.000315375
 eh,Just saying 'eh' ,0.00030739
 hai,Informal greeting,0.000306813
 gg,Good game,0.000306392
-skrrt,,0.000297265
+skrrt,The sound made by wheels of a vehicle screeching*,0.000297265
 um,For when you don’t know what to say,0.00029337
 wat,What,0.000287427
 hii,Informal greeting,0.000286632
@@ -70,7 +70,7 @@ oi,An informal way to call someone. Oi <insert name>,0.000234397
 lemme,Let me,0.000232347
 fn,For now,0.000229077
 lmfao,Laughing my fucking ass off,0.000227655
-oo,Another say of saying 'ooo',0.000227228
+oo,Another way of saying 'ooo',0.000227228
 wha,Another way of saying what,0.000226335
 ikr,I know right,0.000224528
 pp,Either refers to profile picture or to someone's penis,0.000224463
@@ -89,7 +89,7 @@ uhh,Filler word for when you are unsure,0.00019873
 woke,Term used for people that are extremely politically correct,0.000197209
 boi,Boy,0.000195241
 pics,Pictures,0.000194961
-pinged,The past tense of someone who sent a ping,0.000191925
+pinged,The past tense of someone having sent a ping,0.000191925
 uhhh,"Filler word for when you are unsure, like 'uhh'",0.000191461
 ohhh,Another way of saying 'oh',0.000190884
 qt,A way of saying cutie,0.000188896
@@ -101,7 +101,7 @@ nsfw,Abbreviation for 'not safe for work',0.000181976
 hbu,Abbreviation for 'how about you?',0.000181613
 weeb,Derogotary word to describe those into Japanese culture such as anime,0.000181545
 xd,An expression for a laughing face and an alternative to 'lol',0.000180984
-nani,Japanese for 'what',0.000179368
+nani,Japanese for 'what' *,0.000179368
 hehe,Another way of saying 'haha',0.000171506
 emotes,Refers to the dances present in the fortnite game used to taunt opponents,0.000170554
 ofc,Abbreviation for 'of course',0.000170346
@@ -113,7 +113,7 @@ aww,Expression for when someone finds something cute,0.000165525
 abt,Slang for 'about',0.000165221
 heya,Hey you,0.000161116
 boop,Just an expression for affectionately poking someone,0.000159426
-toon,Refers to a character in a role playing game,0.000159401
+toon,Refers to a character in a role-playing game*,0.000159401
 emoji,Refers to the use of emojis,0.000158786
 aw,Another way of saying 'aww',0.000158332
 ngl,Abbreviation of 'not going to lie',0.000156901
@@ -123,7 +123,7 @@ dw,Abbreviation for 'don’t worry',0.000155347
 ohh,Another way of saying 'oh',0.00015289
 gon,Going to,0.000151799
 irl,In real life,0.000150896
-fav,Favorite,0.000150708
+fav,Favourite,0.000150708
 gimme,Give me,0.000150405
 fortnite,A popular video game,0.000149136
 legit,Expression used when something is real,0.00014777
@@ -144,7 +144,7 @@ aye,Another way of saying 'ayy',0.000133941
 yeet,An expression to indicate enthusiasm OR to throw / chuck something,0.000133487
 brb,Be right back,0.000132818
 gud,Good,0.000131944
-af,Abbreaviation for 'as fuck',0.000130535
+af,Abbreviation for 'as fuck',0.000130535
 ahhh,Another way of saying 'ahh',0.000127256
 manga,Refers to Japanese comics,0.000126066
 yup,Yes,0.00012581
@@ -159,7 +159,7 @@ kek,An alternative to 'lol' or 'haha' to indicate laughter in relation to someth
 memes,Refers to 'memes' (pictures with funny captions),0.000117904
 ay,Another way of saying 'ayy' or 'ey',0.000117395
 feels,An overwhelming emotional reaction ,0.000116073
-wassup,Whats up,0.000114273
+wassup,Whatsup,0.000114273
 bday,Birthday,0.000111814
 bf,Boyfriend,0.000111189
 si,Spanish for 'yes',0.00011074
@@ -169,29 +169,29 @@ okie,Another way of saying 'okay',0.000110482
 bai,Another way of saying 'bye',0.000108584
 mic,"Refers to someone's microphone, particularly related to voice calls",0.00010766
 spotify,A popular music streaming platform,0.000107322
-ps,An additional thought OR short for 'photoshop' or 'playstation',0.000107195
+ps,An additional thought OR short for 'photoshop' OR 'playstation',0.000107195
 dunno,Don’t know,0.000107144
 yikes,Expression for when something bad happens,0.000106859
 ello,Another way of saying 'hello',0.000106466
 min,Refers to 'minute' and in context one would say 'wait a min',0.000105763
-mi,Another way of saying 'me',0.000104411
-chu,Another way of saying 'you' and in context 'with chu' (with you),0.000103285
+mi,Spanish for 'me' ,0.000104411
+chu,"Another way of saying 'you' and in context, 'wi chu' (with you)",0.000103285
 lmaoo,Another way of saying 'lmao' (laughing my ass off),0.000103266
-hiya,Hi you,0.000102874
+hiya,Hey you,0.000102874
 uhm,Another way of saying 'umm' (a filler word),0.00010266
 soo,Another way of saying 'so',0.000102537
 smol,A slang for the word 'small',0.000101742
 lmaooo,Another way of saying 'lmao' (laughing my ass off),0.000101274
 plz,Another way of saying 'pls' (please),0.00010091
-stfu,Shut the fuck up,9.95E-05
-rn,Right now,9.93E-05
-oops,Expression for when one makes a mistake,9.89E-05
-idc,I don’t care,9.83E-05
-umm,A filler word for when one is thinking,9.70E-05
-smth,Something,9.62E-05
-ez,Easy,9.50E-05
-noni,Another way of saying 'nani' (Japanese for 'what'),9.34E-05
-heh,"An expression for when one is confused, similar to 'huh'",9.34E-05
+stfu,Shut the fuck up,0.000099549
+rn,Right now,0.000099304
+oops,Expression for when one makes a mistake,0.000098903
+idc,I don’t care,0.000098337
+umm,A filler word for when one is thinking,0.000096960
+smth,Something,0.000096219
+ez,Easy,0.000094986
+noni,Another way of saying 'nani' (Japanese for 'what')*,0.000093372
+heh,"An expression for when one is confused, similar to 'huh'",0.000093359
 ,,
 ,,
 ,,
