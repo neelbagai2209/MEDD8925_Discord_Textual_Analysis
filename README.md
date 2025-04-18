@@ -10,4 +10,12 @@ In AntConc, once the refence and target corpora were added, the keywords tab was
 
 This data was utilized with the aforementioned 'keywordlist.csv' to create 'classified_keywords.csv' that had all the keywords classified. The code can be found in 'Classified Dictionary Word List.ipynb'
 
-After generating ' 'classified_keywords.csv' only the Noun.Communication and null categories were kept as slang using 'Further Refined Keyword List of Slang.ipynb' which resulted in the file 'filtered_keywords_cleaned.csv' which was the most refined version of the slang words present in the Discord Data with the Urban Dictionary having been used as the reference corpus. 
+After generating 'classified_keywords.csv,' irrelevant columns such as range_ref, lower_word, and source_file were dropped in 'Refined Classified Dictionary List.ipynb' as they served zero value to me in further analysis and this resulted in the file 'refined_classified_keywords.csv'
+
+The next step involved further refinement of  'refined_classified_keywords.csv' in 'Further Refined Keyword List of Slang.ipynb,' which saw removal of all subcategories unless they were communication nouns (Noun.Communication) or had no category given their unique slang nature. This resulted in the 'filtered_keywords_cleaned.csv' file which was used for the next step, the graph-based PageRank was done.
+
+As for the PageRank, for which the code can be found in 'Graph Based Keyword Extraction Discord Data.ipynb,' a co-occurance graph was made along with a 'refined_keywords_pagerank_scores.csv' file
+
+Using a copy of the 'refined_keywords_pagerank_scores.csv' file, the final deliverable, the 'Slang Terms with Meaning.csv' file was made. It contains 193 slang entries (with the highest PageRank score) and includes meaning added by myself or through help of the Urban Dictionary in cases where I was unsure.
+
+
